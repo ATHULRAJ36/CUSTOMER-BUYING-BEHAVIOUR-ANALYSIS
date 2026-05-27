@@ -41,4 +41,5 @@ The project focused on transforming raw sales data into meaningful insights thro
 ## Outcome
 
 Successfully developed an Excel-based interactive dashboard that provided actionable insights into customer purchasing behaviour and sales performance.
+
 <img width="100%" src="https://github.com/ATHULRAJ36/CUSTOMER-BUYING-BEHAVIOUR-ANALYSIS/blob/main/CUSTOMER%20BUYING%20BEHAVIOUR.png">
