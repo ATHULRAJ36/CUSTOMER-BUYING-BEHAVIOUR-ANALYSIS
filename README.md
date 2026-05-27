@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./CUSTOMER BUYING BEHAVIOUR.png" alt="Customer Buying Behaviour Dashboard" width="100%">
-</p>
-
 # **Customer Buying Behaviour Analysis — Excel Dashboard**
 Interactive Customer Analytics Dashboard built using Microsoft Excel
 
@@ -89,3 +85,7 @@ The project focused on transforming raw sales data into interactive visual repor
 # **Outcome**
 
 Successfully developed an interactive Excel dashboard that provided valuable insights into customer purchasing behaviour, spending patterns, and product performance through data visualization and analytics.
+
+<p align="center">
+  <img src="./CUSTOMER BUYING BEHAVIOUR.png" alt="Customer Buying Behaviour Dashboard" width="100%">
+</p>
